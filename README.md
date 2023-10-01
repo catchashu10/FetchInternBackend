@@ -42,10 +42,10 @@ source FetchBackend/bin/activate
 ```
 
 #### Step 3: **Install Dependencies**
-Install the project dependencies listed in the requirements.txt file.
+Install the project dependencies.
 
 ```sh
-pip install -r requirements.txt
+pip install flask
 ```
 
 #### Step 4: **Run the Application**
@@ -57,7 +57,7 @@ flask run --port 8000
 The API will be accessible at http://127.0.0.1:8000.
 
 ## **Testing the API**
-You can call the apis using Postman or use curl from a new terminal. The server response will be visible in new terminal where the curl command is sent from.
+You can call the apis using Postman or use curl from a new terminal. The server response will be visible in new terminal and in the terminal where the flas is running.
 
 #### 1. Add Points
 ```sh
