@@ -38,7 +38,7 @@ Activate the virtual environment.
 
 ##### macOS/Linux:
 ```sh
-source venv/bin/activate
+source FetchBackend/bin/activate
 ```
 
 After this step your project repository will look like this:
