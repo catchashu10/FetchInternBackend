@@ -41,16 +41,6 @@ Activate the virtual environment.
 source FetchBackend/bin/activate
 ```
 
-After this step your project repository will look like this:
-FetchInternBackend (Project Directory)
-```
-│
-├── FetchBackend (Virtual Environment Directory)
-│
-└── app.py (Your Python file containing Flask app)
-```
-
-
 #### Step 3: **Install Dependencies**
 Install the project dependencies listed in the requirements.txt file.
 
