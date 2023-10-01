@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
    git clone https://github.com/catchashu10/FetchInternBackend.git
    ```
    
-#### Step 2: **Set Up a Virtual Environment**
+#### Step 2: **Set Up a Virtual Environment** (This might take sometime)
 Create a virtual environment in the project directory.
 ```sh
 python3 -m venv FetchBackend
